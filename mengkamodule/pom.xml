@@ -9,7 +9,8 @@
 	<groupId>com.taobao.mengka</groupId>
 	<artifactId>mengkamodule</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-<dependencies>
+
+	<dependencies>
 		<dependency>
 			<groupId>org.codehaus.groovy</groupId>
 			<artifactId>groovy-all</artifactId>
@@ -60,22 +61,20 @@
 			<artifactId>tae-common-engine</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
-        <dependency>
-            <groupId>com.taobao.common.uic.uic-common</groupId>
-            <artifactId>common-uic-common</artifactId>
-        </dependency>
-        
-        
-        <dependency>
+		<dependency>
 			<groupId>com.taobao.tae</groupId>
 			<artifactId>component-validator</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
-		</dependency>	
-         <dependency>
-            <groupId>com.taobao.tae</groupId>
-            <artifactId>backyard-client</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
-        </dependency>
-        
-       </dependencies>
+		</dependency>
+		<dependency>
+			<groupId>com.taobao.tae</groupId>
+			<artifactId>backyard-client</artifactId>
+			<version>1.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.taobao.common.uic.uic-common</groupId>
+			<artifactId>common-uic-common</artifactId>
+		</dependency>
+		
+	</dependencies>
 </project>
