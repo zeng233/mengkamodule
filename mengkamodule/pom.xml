@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-<parent>
+	<parent>
 		<groupId>com.taobao.tae</groupId>
 		<artifactId>tae-parent</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
@@ -64,5 +64,18 @@
             <groupId>com.taobao.common.uic.uic-common</groupId>
             <artifactId>common-uic-common</artifactId>
         </dependency>
-	</dependencies>
+        
+        
+        <dependency>
+			<groupId>com.taobao.tae</groupId>
+			<artifactId>component-validator</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>	
+         <dependency>
+            <groupId>com.taobao.tae</groupId>
+            <artifactId>backyard-client</artifactId>
+            <version>1.0.1-SNAPSHOT</version>
+        </dependency>
+        
+       </dependencies>
 </project>
