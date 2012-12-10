@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>com.taobao.tae</groupId>
 			<artifactId>taesitecenter-client</artifactId>
-			<version>1.0.2-SNAPSHOT</version>
+			<version>1.2.3-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.taobao.mercury</groupId>
@@ -74,6 +74,7 @@
 		<dependency>
 			<groupId>com.taobao.common.uic.uic-common</groupId>
 			<artifactId>common-uic-common</artifactId>
+			<version>3.2.0</version>
 		</dependency>
 		
 	</dependencies>
