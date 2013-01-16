@@ -69,13 +69,18 @@
 		<dependency>
 			<groupId>com.taobao.tae</groupId>
 			<artifactId>backyard-client</artifactId>
-			<version>1.0.1-SNAPSHOT</version>
+			<version>1.0.2-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.taobao.common.uic.uic-common</groupId>
 			<artifactId>common-uic-common</artifactId>
 			<version>3.2.0</version>
 		</dependency>
+		        <dependency>
+            <groupId>com.taobao.media</groupId>
+            <artifactId>media-client</artifactId>
+            <version>1.0.4-SNAPSHOT</version>
+        </dependency>
 		
 	</dependencies>
 </project>
