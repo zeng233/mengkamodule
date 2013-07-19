@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>com.taobao.tae</groupId>
 			<artifactId>backyard-client</artifactId>
-			<version>1.0.2-SNAPSHOT</version>
+			<version>1.0.4-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.taobao.common.uic.uic-common</groupId>
